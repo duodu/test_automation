@@ -29,17 +29,17 @@ end
 
 class Dat_to_record
   def initialize filename
-    num = 1 if filename.include? "ADDRESS"
-    num = 2 if filename.include? "JOB"
-    num = 3 if filename.include? "NAME"
-    num = 4 if filename.include? "ID"
-    num = 5 if filename.include? "PSSPRT"
-    @field = Read_field_mapping.new num
+    @num = 1 if filename.include? "ADDRESS"
+    @num = 2 if filename.include? "JOB"
+    @num = 3 if filename.include? "NAME"
+    @num = 4 if filename.include? "ID"
+    @num = 5 if filename.include? "PSSPRT"  
     @dat = Dat_driver.new filename
   end
   def export_records
+    field = Read_field_mapping.new @num
     records = Array.new
-    field_output = @field.output
+    field_output = field.output
     @dat.output_records.each do |record|
       each_record = Hash.new
       record_array = record.split ''

@@ -1,0 +1,18 @@
+=========================================================================
+addr2.dat: 00548779 =    HOME20051121  RUA PIAUI, 490 - AP.34                                                                                                                                                                                                      SAO PAULO                     BRA01241-000   SP    
+addr1.dat: 00548779 =    mammi  RUA PIAUI, 490 - AP.34                                                                                                                                                                                                      SAO PAULO                     BRA01241-000   SP    
+=========================================================================
+addr2.dat: fuck you =  self, guy
+addr1.dat: fuck you = 
+=========================================================================
+addr2.dat: 21822997 =    FUckyou12312	 Av Velasco Ibarra N84 09                                                                                                                                                                                                    Quito                         ECUEC1701            
+addr1.dat: 21822997 =    HOME20111201  Av Velasco Ibarra N84 09                                                                                                                                                                                                    Quito                         ECUEC1701            
+=========================================================================
+addr2.dat: suckmydi = ck hey, you, suck my dick
+addr1.dat: suckmydi = 
+=========================================================================
+addr2.dat: 82014767 =    fuckoff       33 Truscott Street                                                                                                                                                                                                          Modbury Heights               AUS5092        SA    
+addr1.dat: 82014767 =    HOME20080826  33 Truscott Street                                                                                                                                                                                                          Modbury Heights               AUS5092        SA    
+=========================================================================
+addr2.dat: 82093788 =    HOME20080826  2 Birkby Street                                                                                                                                                                                                             Box Hill North                AUS3129        VIC   
+addr1.dat: 82093788 =    HOME20080826  2 Birkby Street                                                                                                                                                                                                             Box Hill North                AUS3129        VIC
